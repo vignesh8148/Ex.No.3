@@ -175,14 +175,15 @@ Prompt: "What is Artificial Intelligence? Before answering, ask me what I alread
 
 ## Best Practices for Prompt Engineering
 
- 1.Be Clear: Use simple and understandable words.
- 2.Be Specific: Clearly mention what you want.
- 3.Give Context: Provide necessary background information.
- 4.Set a Role: Tell AI what role it should perform.
- 5.Specify Output Format: Mention whether you need a paragraph, list, or table.
- 6.Use Examples: Give examples to guide the AI.
- 7.Avoid Ambiguity: Use clear instructions without confusion.
- 8.Review and Improve: Modify prompts to get better results.
+  1.Be Clear: Use simple and understandable words.
+  2.Be Specific: Clearly mention what you want.
+  3.Give Context: Provide necessary background information.
+  4.Set a Role: Tell AI what role it should perform.
+  5.Specify Output Format: Mention whether you need a paragraph, list, or table.
+  6.Use Examples: Give examples to guide the AI.
+  7.Avoid Ambiguity: Use clear instructions without confusion.
+  8.Review and Improve: Modify prompts to get better results.
+  
 ---
 ## Conclusion
 
