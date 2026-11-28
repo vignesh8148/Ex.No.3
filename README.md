@@ -86,6 +86,7 @@ Tabular Format Prompting is a technique of asking AI to present information in a
 ``
 Compare Python and C programming languages in a table with features and differences.
 ``
+
 **Conversation:**
 
 * Customer: *"My package hasn’t arrived yet."*
