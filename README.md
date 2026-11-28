@@ -1,8 +1,7 @@
 # Ex.No.3-Explaing the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-### DATE: 20-11-2026  
-### NAME: Navaneeth S
-### REGISTER NUMBER : 212225240097
+### NAME: Vignesh K
+### REGISTER NUMBER : 212225240183
 
 # Aim: 
  To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. Using Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting techniques.
@@ -151,7 +150,7 @@ The AI **first asks clarifying questions** when the query lacks details.
 **Example:**
 
 ```plaintext
-Prompt: "If customer’s query is missing details (like order ID), ask a clarifying question first."
+Prompt: "What is Artificial Intelligence? Before answering, ask me what I already know about AI. Then explain it in simple words based on my answer."
 ```
 
 **Conversation:**
@@ -168,40 +167,38 @@ Prompt: "If customer’s query is missing details (like order ID), ask a clarify
 
 | Prompt Type                  | Purpose                         | Strengths                          | Best Use Case             |
 | ---------------------------- | ------------------------------- | ---------------------------------- | ------------------------- |
-| Straightforward Prompting    | Gives direct instructions       | Simple and quick responses         | General descriptions      |
-| Tabular Format Prompting     | Organizes information           | Easy comparison and readability    | Documentation and reports |
-| Preceding Question Prompting | Builds context before answering | Detailed reasoning and explanation | Analytical tasks          |
+| Straightforward Prompting    | Gives direct instructions       | Quick and simple answers           | General questions         |
+| Tabular Format Prompting     | Arranges information in tables  | Clear and organized output         | Reports and comparisons   |
+| Preceding Question Prompting |Asks a question before answering |Improves clarity and context        | Detailed explanations     |
 | Missing Word Prompting       | Tests contextual understanding  | Improves comprehension             | Educational assessments   |
 
 ## Best Practices for Prompt Engineering
 
-* Keep prompts **clear, concise, and unambiguous**.
-* Use **structured formats (tables, templates)** where consistency is needed.
-* Apply **preceding questions** for vague or incomplete queries.
-* Provide **examples (few-shot)** to teach style/pattern.
-* Always test prompts with **edge cases** (e.g., missing data, typos).
-
+ 1.Be Clear: Use simple and understandable words.
+ 2.Be Specific: Clearly mention what you want.
+ 3.Give Context: Provide necessary background information.
+ 4.Set a Role: Tell AI what role it should perform.
+ 5.Specify Output Format: Mention whether you need a paragraph, list, or table.
+ 6.Use Examples: Give examples to guide the AI.
+ 7.Avoid Ambiguity: Use clear instructions without confusion.
+ 8.Review and Improve: Modify prompts to get better results.
 ---
 ## Conclusion
 
-Implementing diverse prompt engineering techniques empowers chatbots to deliver accurate, context-aware, and user-friendly interactions. Straightforward prompts ensure fast, reliable responses for routine queries, while tabular format prompts provide consistency and structure across multiple scenarios. Missing word (cloze) prompts enable precise personalization, and preceding question prompts enhance clarity by addressing incomplete inputs. Each approach has unique advantages, and strategically combining them maximizes efficiency, accuracy, and customer satisfaction. Thoughtful prompt design not only improves response quality but also fosters trust, scalability, and adaptability, positioning chatbots as effective, reliable, and intelligent tools in modern customer service ecosystems.
+Different prompt engineering techniques help chatbots give accurate and useful responses. Straightforward prompts provide quick answers, while tabular prompts organize information clearly. Missing word prompts help personalize responses, and preceding question prompts improve clarity. Each technique has its own benefits. Using these techniques together improves accuracy, saves time, and increases customer satisfaction. Good prompt design also makes chatbots more reliable, helpful, and user-friendly.
 
 Key Takeaways:
 
-1.Enhances accuracy, consistency, and personalization in responses.
-
-2.Builds user trust by clarifying incomplete or ambiguous queries.
-
-3.Supports scalability and adaptability in customer service operations.
-
+ 1.Improves accuracy, consistency, and personalization in responses.
+ 2.Builds user trust by making unclear questions easier to understand.
+ 3.Helps chatbots handle different customer needs effectively.
+ 
 ## Result
 
-By applying **Straightforward, Tabular, Missing Word, Preceding Question, and Few-Shot Prompting**, customer service chatbots can:
-
-1) Deliver accurate answers.
-2) Maintain a natural conversational flow.
-3) Improve customer trust and satisfaction.
-
+Using Straightforward, Tabular, Missing Word, Preceding Question, and Few-Shot Prompting helps customer service chatbots to:
+1. Give accurate answers.
+2. Provide smooth conversations.
+3. Improve customer trust and satisfaction.
 Each method has its **strengths and trade-offs**, and the right combination depends on the **type of query** and **business goals**.
 
 ---
