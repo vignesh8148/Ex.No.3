@@ -182,9 +182,13 @@ Prompt: "What is Artificial Intelligence? Before answering, ask me what I alread
   3.Give Context: Provide necessary background information.
   
   4.Set a Role: Tell AI what role it should perform.
+  
   5.Specify Output Format: Mention whether you need a paragraph, list, or table.
+  
   6.Use Examples: Give examples to guide the AI.
+  
   7.Avoid Ambiguity: Use clear instructions without confusion.
+  
   8.Review and Improve: Modify prompts to get better results.
   
 ---
